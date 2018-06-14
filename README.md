@@ -1,1 +1,1 @@
-# kube-proxy-amd64
+# kube-scheduler-amd64
